@@ -1,5 +1,5 @@
 # ParallelScaraProject
-Using ClearCore motion controller to build a parallel SCARA application
+Using ClearCore motion controller to build a parallel SCARA (Selectively Compliant Articulated Robot Arm) application
 
 ## Requirements
 - Windows OS
