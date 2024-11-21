@@ -5,5 +5,5 @@ Using ClearCore motion controller to build a parallel SCARA application
 - Windows OS
 
 ## Getting Started
-- [Download ClearView Installer from Teknic](https://www.teknic.com/downloads/) - ClearCore Microchip Installer
-- The installation will prompt to install ClearCore Microchip Studio. Install Microchip Studio.
+- [Download ClearPath SC NEMA 23/34 IP53 MotorBody software from Teknic](https://www.teknic.com/downloads/)
+- ClearPath -> SC -> NEMA 23/34 -> Software -> zip
